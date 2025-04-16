@@ -13,3 +13,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=APoves&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=APoves&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoves&show_icons=true&locale=en&layout=compact" alt="apoves" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apoves&show_icons=true&locale=en" alt="apoves" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apoves&" alt="apoves" /></p>
