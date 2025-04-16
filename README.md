@@ -1,3 +1,4 @@
+[![Aurora Poves, Web Developer](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Web%20Developer&title=Aurora%20Poves)](https://pimp-my-readme-next.vercel.app)
 
 ### 👾 Web Developer 🌐. Trainee 🌱. <br><br>
 
