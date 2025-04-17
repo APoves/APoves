@@ -2,7 +2,10 @@
 
 
 
-### 👾 Web Developer Trainee 🌐. <br><br>
+### 👾 Web Developer🌐.
+
+
+## Desarrolladora Web Trainee. Estudiante de DAW. 
 
 
 ## 🌐 Contacto:
