@@ -1,4 +1,6 @@
-[![Aurora Poves, Web Developer](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Web%20Developer&title=Aurora%20Poves)](https://pimp-my-readme-next.vercel.app)
+
+
+[![Aurora Marina Poves <Web Developer>](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f47d_1f47e&text=Aurora%20Marina%20Poves%20%3CWeb%20Developer%3E)](https://pimp-my-readme-next.vercel.app)
 
 
 
