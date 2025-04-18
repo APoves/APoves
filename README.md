@@ -8,7 +8,6 @@
 
 
 ### Desarrolladora Web Trainee.
-
 ### Estudiante de DAW. 
 <br>
 
