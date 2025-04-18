@@ -7,7 +7,7 @@
 ## 👾 Web Developer🌐 <br>
 
 
-## Desarrolladora Web Trainee.
+### Desarrolladora Web Trainee.
 
 ### Estudiante de DAW. 
 <br>
