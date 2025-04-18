@@ -9,7 +9,6 @@
 
 ## Desarrolladora Web Trainee.
 
-
 ### Estudiante de DAW. 
 <br>
 
@@ -20,6 +19,10 @@
 
 # 🌐 Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/auroramarinapoves) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marinapoves@gmail.com) 
+www.linkedin.com/in/auroramarinapoves
+marinapoves@gmail.com
+
+<br>
 <br>
 
 # 💻 Stack:
