@@ -6,11 +6,8 @@
 
 # 👾 Web Developer🌐 <br>
 
-
 ### Desarrolladora Web Trainee. Estudiante de DAW. 
 <br>
-
-
 
 
 
@@ -36,15 +33,6 @@
 <br>
 
 ## 📊 GitHub:
-
-  
-![](https://github-readme-stats.vercel.app/api?username=APoves&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=APoves&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=APoves&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-Prueba
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=APoves&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
   <br/>
