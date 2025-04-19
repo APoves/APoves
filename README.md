@@ -4,11 +4,10 @@
 
 
 
-## 👾 Web Developer🌐 <br>
+# 👾 Web Developer🌐 <br>
 
 
-### Desarrolladora Web Trainee.
-### Estudiante de DAW. 
+### Desarrolladora Web Trainee. Estudiante de DAW. 
 <br>
 
 
@@ -16,14 +15,14 @@
 
 
 
-# 🌐 Contacto:
+## 🌐 Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/auroramarinapoves) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marinapoves@gmail.com) 
 
 
  
 <br>
 
-# 💻 Stack:
+## 💻 Stack:
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
@@ -36,8 +35,10 @@
 <br>
 <br>
 
-# 📊 GitHub:
+## 📊 GitHub:
+<p align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=APoves&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=APoves&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=APoves&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+</p>
