@@ -39,6 +39,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APoves&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&include=javascript,java" alt="Lenguajes más utilizados" />
 </div>
 
-<div>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=APoves&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&include=javascript,java](https://github-readme-stats.vercel.app/api/top-langs/?username=APoves&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=donutvertical&exclude_repo=ProyectoDam&exclude=html,xml&custom_title=Lenguajes+Principales)" alt="Lenguajes más utilizados" />
-</div>
