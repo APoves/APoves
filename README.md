@@ -36,10 +36,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=APoves&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=APoves&theme=jolly&hide_border=false" alt="Racha de contribuciones" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APoves&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes más utilizados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APoves&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&include=javascript,java" alt="Lenguajes más utilizados" />
 </div>
-<br>
-//lenguajes
-<br>
-
 
