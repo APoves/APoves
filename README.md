@@ -38,3 +38,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=APoves&theme=jolly&hide_border=false" alt="Racha de contribuciones" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APoves&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes más utilizados" />
 </div>
+<br>
+//lenguajes
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APoves)](https://github.com/APoves/github-readme-stats)
