@@ -6,7 +6,7 @@
 
 # 👾 Web Developer🌐 <br>
 
-### Desarrolladora Web Trainee. Estudiante de DAW. 
+## Desarrolladora Web Trainee. Estudiante de DAW. 
 ## Portfolio web: https://aurorapoves.vercel.app/
 <br>
 
