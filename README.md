@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/APoves/APoves/blob/main/logo.png" alt="Mi Logo" width="500"/>
+  <img src="https://github.com/APoves/APoves/blob/main/logo.png" alt="Mi Logo" width="450"/>
 </p>
 
  
