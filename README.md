@@ -35,6 +35,7 @@
 <br>
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 <br>
+<br>
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c.svg?style=flat&logo=openai&logoColor=white)  ![Claude](https://img.shields.io/badge/Claude-000000.svg?style=flat&logo=anthropic&logoColor=white)  ![Cursor](https://img.shields.io/badge/Cursor-%2334C759.svg?style=flat&logo=cursor&logoColor=white)
 <br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)  ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
